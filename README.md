@@ -1,2 +1,2 @@
 Trying out different spaces of programming.
-currently studying cyber-sec,full stack web-dev and MVC C# ASAP NET framework
+currently studying cyber-sec,AI programming and low level stuff
